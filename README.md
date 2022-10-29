@@ -5,4 +5,3 @@
 - I'm a Computer Vision Developer and Researcher at Accenture Brazil, researching on Continual Learning for Image Classification. Also, I work on projects involving Object Detection and Tracking.
 - I have experience working with Python and the following libs: PyTorch, PyTorch Lightning, Avalanche, Optuna, MLflow, Numpy, and Pandas.
 - I speak Portuguese and English.
-- 📫 How to reach me: lama2@cin.ufpe.br
