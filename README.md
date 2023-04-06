@@ -1,7 +1,5 @@
-## Hi there! 
+Hello! My name is Lucas, and I'm a Computer Vision Developer and Researcher at Accenture. With a Bachelor's degree in Computer Engineering from CIn-UFPE and ongoing studies for a Master's degree in Continual Learning for Image Classification, I'm passionate about exploring the frontiers of computer vision research. I'm particularly interested in topics such as Image Super-Resolution, Image Synthesis, and Representation Learning.
 
-- I'm Lucas, 26 years old.
-- I have a Bachelor's degree in Computer Engineering at [CIn - UFPE](https://cin.ufpe.br), where I'm currently studying for a Master's degree in Continual Learning for Image Classification. I'm also interested in Image Super-Resolution, Image Synthesis, and Representation Learning.
-- I'm a Computer Vision Developer and Researcher at Accenture Brazil, researching on Continual Learning for Image Classification. Also, I work on projects involving Object Detection and Tracking.
-- I have experience working with Python and the following libs: PyTorch, PyTorch Lightning, Avalanche, Optuna, MLflow, Numpy, and Pandas.
-- I speak Portuguese and English.
+In my current role, I specialize in Continual Learning for Image Classification, and I also work on projects involving Object Detection and Tracking. I'm experienced in using Python and several key libraries for machine learning, including PyTorch, PyTorch Lightning, Avalanche, Optuna, MLflow, Numpy, and Pandas.
+
+If you're looking for someone with a deep understanding of computer vision, backed by both academic and professional experience, please don't hesitate to connect with me. I'm fluent in both Portuguese and English, and I look forward to collaborating with colleagues from around the world.
